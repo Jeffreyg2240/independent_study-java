@@ -3,6 +3,7 @@
 ## Table of Contents
 
 + [Entry 1: What is Java?](entries/entry1.md)
+<br>
 Entry 2: Comming Soon...
 <br>
 Entry 3: Comming Soon...
