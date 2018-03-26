@@ -14,10 +14,12 @@ I been looking through Codecademy for this week and found that Java *is* very si
 
 ## Takeaways
 
-### 2. There are going to be moments where we have no clue were to go or stop. Just look at were we are and realize what is there.
+### 1. There are going to be moments where we have no clue were to go or stop. Just look at were we are and realize what is there.
 
 Start with your skateboard and make modifications.
 
+### 2. Take your time but not too much time.
+Don't end up like the top part. Seriouly, **DON'T**.
 <img src="../images/mvp.png"/>
 
 ### QotW
