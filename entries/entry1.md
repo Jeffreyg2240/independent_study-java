@@ -15,4 +15,5 @@ I been looking through Codecademy for this week and found that Java *is* very si
 ## Takeaways
 
 *“We are, at least in part, who we remember ourselves to be. Take away our memories, and you take away our selves.” 
+<br>
 ― Beth Revis, The Body Electric*
