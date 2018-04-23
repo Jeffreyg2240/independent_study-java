@@ -4,18 +4,18 @@
 
 + [Entry 1: What is Java?](entries/entry1.md)
 <br>
-Entry 2: Comming Soon...
++ [Entry 2: Comming Soon...](entries/entry2.md)
 <br>
-Entry 3: Comming Soon...
++ [Entry 3: Comming Soon...](entries/entry3.md)
 <br>
 + [Entry 4: Getting Something to Work in Java](entries/entry4.md)
 <br>
-Entry 5: Comming Soon...
++ [Entry 5: Comming Soon...](entries/entry5.md)
 <br>
-Entry 6: Comming Soon...
++ [Entry 6: Comming Soon...](entries/entry6.md)
 <br>
-Entry 7: Comming Soon...
++ [Entry 7: Comming Soon...](entries/entry7.md)
 <br>
-Entry 8: Comming Soon...
++ [Entry 8: Comming Soon...](entries/entry8.md)
 <br>
-Entry 9: Comming Soon...
++ [Entry 9: Comming Soon...](entries/entry9.md)
