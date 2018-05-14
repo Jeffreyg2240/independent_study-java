@@ -12,11 +12,11 @@ Having this out of the way, we started making the the level around our nimble yo
 
 <img src="../images/background.png"/>
 
-Not 100% sure if you have noticed but we also found a way to make out sprite become flipped without distortion. Making that was an absolute killer. Trying to find the specific heights and widths of our character. We have come the the problem of the occasional "distortion" of our character with he is using this pound attack to the left of the screen. (Look at the picture below) I know earlier I said we had not problem of distortion with our character when he is flipped to the other side. Finding the problem to this error is fueling us to continue working on this besides the fact that it is still in beta. We are trying our best to implement a boss at the end of this level as well as making a transition to out second level we are making as of yesterday. 
+Not 100% sure if you have noticed but we also found a way to make out sprite become flipped without distortion. Making that was an absolute killer. Trying to find the specific heights and widths of our character. We had come to the problem of the occasional "distortion" of our character with he is using his pound attack to the left of the screen. (Look at the picture below) I know earlier I said we didn't have a problem with distortion with our character when he is flipped to the other side. Finding the problem to this error is fueling us to continue working on this besides the fact that it is still in beta. We are trying our best to implement a boss at the end of this level as well as making a transition to our second level we are making as of yesterday. 
 
 <img src="../images/crunch.png"/>
 
-We also have another problem that is not game breaking. We have our little enemy, a groomba, *(Yes, that's what it's called...)* to have the occasional glitching with is sprites are not completely aligned but due to this fact that we are aware of, we are going to fix it at a later state and not instantly, due to it not being a game breaking bug, and it just some guess and check with the .png file and the code and the output. (Below it the bug of the groomba)
+We also have another problem that is not game breaking. We have our little enemy, a groomba, *(Yes, that's what it's called...)* to have the occasional glitching with is sprites are not completely aligned but due to this fact that we are aware of, we are going to fix it at a later state and not instantly, due to it not being a game breaking bug, and it just some guess and check with the .png file and the code and the output. (Below is the bug of the groomba)
 
 <img src="../images/glitch.png"/>
 

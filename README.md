@@ -4,6 +4,7 @@
 
 + [Entry 1: What is Java?](entries/entry1.md)
 <br>
++ [Entry 2: Comming]
 + [Entry 2: Comming Soon...](entries/entry2.md)
 <br>
 + [Entry 3: Comming Soon...](entries/entry3.md)
