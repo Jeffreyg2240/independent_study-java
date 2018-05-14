@@ -14,7 +14,7 @@
 <br>
 + [Entry 6: Comming Soon...](entries/entry6.md)
 <br>
-+ [Entry 7: Comming Soon...](entries/entry7.md)
++ [Entry 7: Sprites are a son of a b...](entries/entry7.md)
 <br>
 + [Entry 8: Comming Soon...](entries/entry8.md)
 <br>
