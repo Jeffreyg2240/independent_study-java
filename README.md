@@ -16,6 +16,6 @@
 <br>
 [Entry 7: Sprites are a son of a b...](entries/entry7.md)
 <br>
-[Entry 8: Comming Soon...](entries/entry8.md)
+[Entry 8: DLC: Incoming](entries/entry8.md)
 <br>
 [Entry 9: Comming Soon...](entries/entry9.md)
