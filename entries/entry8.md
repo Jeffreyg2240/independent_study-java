@@ -23,6 +23,8 @@ Partners HELP!!!
 
 Just kidding. They have been such a huge help in the project. Honestly, I wouldn't be a finalist with them without them.
 
+And remember, it only a tease of level 2.
+
 <img src="../images/lvl2.png"/>
 
 # Takeaways
